@@ -144,7 +144,7 @@ Desktop building can be a bit tedious. Each different version requires a differe
 4. Open your machine's command prompt/terminal and navigate to your root folder of the game. [An easy guide can be found here!](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 5. Once everything is installed, type `lime build windows -debug` to build the windows version of the game.
 6. Type `lime run windows -debug` after the game is compiled to run the windows version of the game. (You can also run the game from `funkin/export/debug/windows/bin`)
-
+<!--This is TentaRJ! Hi me!-->
 # All done!
 You should have been able to compile the whole game now! What can you do now? Well, you can mod to your heart's desire! Since this game is open source, the creator loves seeing what other talented artists and programmers can make!
 Special thanks to the amazing group of dedicated people that are making this game amazing!
